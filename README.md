@@ -1,6 +1,5 @@
 # Hi there 👋
 
-- 🔭 I’m currently working on `B.Home`
 - 🎓 I'm majoring in IT Engineering, Sookmyung Women's University (Undergraduated)
 - 🌱 I’m currently learning `docker`, `DevOps`, `Socket`, `Golang`
 - 📫 How to reach me: `shunnyjang@gmail.com`
