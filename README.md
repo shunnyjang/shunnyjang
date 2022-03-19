@@ -1,7 +1,7 @@
 # Hi there 👋
 
-- 🎓 I'm majoring in IT Engineering, Sookmyung Women's University (Undergraduated)
-- 🌱 I’m currently learning `docker`, `DevOps`, `Socket`, `Golang`
+- 🎓 I'm majored in IT Engineering, Sookmyung Women's University
+- 🌱 I’m currently learning `kubernetes`, `AWS Solution Architecture`, `Spring`, `typescript`
 - 📫 How to reach me: `shunnyjang@gmail.com`
 
 
