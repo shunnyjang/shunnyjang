@@ -1,7 +1,7 @@
 # Hi there 👋
 
 - 🎓 I'm majored in IT Engineering, Sookmyung Women's University
-- 🌱 I’m currently learning `kubernetes`, `AWS Solution Architecture`, `Spring`, `typescript`
+- 🌱 I’m currently learning `AWS Solution Architecture`, `Spring`, `typescript`, and always `javasrcript`
 - 📫 How to reach me: `shunnyjang@gmail.com`
 
 
